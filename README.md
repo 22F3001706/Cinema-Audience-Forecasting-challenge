@@ -1,5 +1,10 @@
 # Cinema Audience Forecasting
 
+## Live Report
+
+The complete interactive project report with all analysis, visualizations, and results is available here:  
+**[View Detailed Project Report](https://22f3001706.github.io/Cinema-Audience-Forecasting-challenge/report.html)**
+
 ## Project Overview
 
 This repository contains a solution for a cinema audience forecasting competition. The goal was to predict daily audience counts for movie theaters over a two-month period (March to April 2024) using historical data from January 2023 to February 2024. The solution employs time series analysis and gradient boosting techniques to generate accurate forecasts.
